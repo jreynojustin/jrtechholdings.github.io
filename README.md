@@ -1,6 +1,6 @@
 # Services
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am small software development service. I specialize in web hosting along with software and app development services. Please get in touch to see how I can help you expand your technology footprint.
 
 - Web Hosting
   - We offer web hosting services for both consumer facing websites and API services.
