@@ -1,6 +1,6 @@
 # Services
 
-I am small software development service. I specialize in web hosting along with software and app development services. Please get in touch to see how I can help you expand your technology footprint.
+I am a small software development service. I specialize in web hosting along with software and app development services. Please get in touch to see how I can help you expand your technology footprint.
 
 - Web Hosting
   - We offer web hosting services for both consumer facing websites and API services.
